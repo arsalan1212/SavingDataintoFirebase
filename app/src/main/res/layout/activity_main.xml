@@ -46,4 +46,15 @@
         android:layout_alignParentEnd="true"
         android:onClick="AddData"
         android:textSize="18sp" />
+
+
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/listview"
+            android:layout_below="@+id/button"
+            android:layout_marginTop="17dp"
+            />
+
+
 </RelativeLayout>
