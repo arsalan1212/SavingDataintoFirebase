@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Saving Data into Firebase</string>
+    <string-array name="art_array">
+        <item>Rock</item>
+        <item>pop</item>
+        <item>Hip pop</item>
+    </string-array>
+</resources>
